@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2107-find-unique-binary-string](https://github.com/betiiy-haile/DSA-Practices/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/betiiy-haile/DSA-Practices/tree/master/2448-count-number-of-bad-pairs) |
 ## Hash Table
 |  |
 | ------- |
+| [2107-find-unique-binary-string](https://github.com/betiiy-haile/DSA-Practices/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/betiiy-haile/DSA-Practices/tree/master/2448-count-number-of-bad-pairs) |
 ## Math
 |  |
@@ -21,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/betiiy-haile/DSA-Practices/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/betiiy-haile/DSA-Practices/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/betiiy-haile/DSA-Practices/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Backtracking
 |  |
 | ------- |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/betiiy-haile/DSA-Practices/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/betiiy-haile/DSA-Practices/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/betiiy-haile/DSA-Practices/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
