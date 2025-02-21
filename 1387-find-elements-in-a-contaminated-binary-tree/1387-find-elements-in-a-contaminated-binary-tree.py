@@ -8,19 +8,26 @@ class FindElements:
 
     def __init__(self, root: Optional[TreeNode]):
         self.visited = set()
-        self.dfs(root, 0)
+        self.bfs(root)
 
     def find(self, target: int) -> bool:
         return target in self.visited
     
-    def dfs(self, node, value):
-        if node is None:
-            return
+    def bfs(self, node):
 
-        self.visited.add(value)
-        self.dfs(node.left, value * 2 + 1)
-        self.dfs(node.right, value * 2 + 2)
-        
+        queue = deque()
+        queue.append(node)
+        node.val = 0
+
+        while queue:
+            curr = queue.popleft()
+            self.visited.add(curr.val)
+            if curr.left:
+                curr.left.val = curr.val * 2 + 1
+                queue.append(curr.left)
+            if curr.right:
+                curr.right.val = curr.val * 2 + 2
+                queue.append(curr.right)
 
     
 # Your FindElements object will be instantiated and called as such:
