@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/betiiy-haile/DSA-Practices/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/betiiy-haile/DSA-Practices/tree/master/0088-merge-sorted-array) |
 | [2107-find-unique-binary-string](https://github.com/betiiy-haile/DSA-Practices/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/betiiy-haile/DSA-Practices/tree/master/2448-count-number-of-bad-pairs) |
 ## Hash Table
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/betiiy-haile/DSA-Practices/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/betiiy-haile/DSA-Practices/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/betiiy-haile/DSA-Practices/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
